@@ -1,4 +1,1 @@
-### This is a markdown file
-
-* Item 1
-* Item 2
+## This is a markdown file
